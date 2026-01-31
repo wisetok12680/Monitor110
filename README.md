@@ -1,4 +1,4 @@
-# 📈 Clear Market Feed - Your Personal Financial Dashboard
+# 📈 Monitor110 - Your Personal Financial Dashboard
 
 Ever felt lost trying to keep up with the Indian stock market? Yeah, we've been there too. **Monitor110** is like having a personal financial assistant in your pocket—it brings together everything you need to know about your investments and the market, all in one beautiful, easy-to-use dashboard.
 
