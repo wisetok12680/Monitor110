@@ -66,7 +66,7 @@ const StockDetail = () => {
 
           <div className="text-left sm:text-right">
             <p className="text-4xl font-semibold tracking-tight text-foreground">
-              ${stock.price.toFixed(2)}
+              ₹{stock.price.toFixed(2)}
             </p>
             <div
               className={`mt-1 flex items-center gap-2 sm:justify-end ${

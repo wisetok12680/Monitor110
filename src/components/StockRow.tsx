@@ -29,7 +29,7 @@ const StockRow = ({ stock }: StockRowProps) => {
       <div className="flex items-center gap-6">
         <div className="text-right">
           <p className="text-lg font-semibold text-foreground">
-            ${stock.price.toFixed(2)}
+            ₹{stock.price.toFixed(2)}
           </p>
           <div
             className={`flex items-center justify-end gap-1 text-sm font-medium ${

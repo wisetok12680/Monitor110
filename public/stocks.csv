@@ -1,0 +1,55 @@
+symbol,name,sector,market_cap
+RELIANCE,Reliance Industries Ltd,Energy,1800000
+TCS,Tata Consultancy Services Ltd,Technology,1400000
+HDFCBANK,HDFC Bank Ltd,Banking,850000
+ICICIBANK,ICICI Bank Ltd,Banking,750000
+INFY,Infosys Ltd,Technology,650000
+HINDUNILVR,Hindustan Unilever Ltd,Consumer Goods,550000
+ITC,ITC Ltd,Consumer Goods,500000
+KOTAKBANK,Kotak Mahindra Bank Ltd,Banking,450000
+LT,Larsen & Toubro Ltd,Construction,400000
+AXISBANK,Axis Bank Ltd,Banking,350000
+MARUTI,Maruti Suzuki India Ltd,Automotive,320000
+BAJFINANCE,Bajaj Finance Ltd,Financial Services,280000
+BAJAJFINSV,Bajaj Finserv Ltd,Financial Services,250000
+BHARTIARTL,Bharti Airtel Ltd,Telecommunication,240000
+ASIANPAINT,Asian Paints Ltd,Chemicals,220000
+NESTLEIND,Nestle India Ltd,Consumer Goods,210000
+ULTRACEMCO,UltraTech Cement Ltd,Cement,200000
+TITAN,Titan Company Ltd,Consumer Goods,180000
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd,Services,170000
+ADANIGREEN,Adani Green Energy Ltd,Utilities,160000
+ADANITRANS,Adani Transmission Ltd,Utilities,150000
+POWERGRID,Power Grid Corporation of India Ltd,Utilities,140000
+NTPC,NTPC Ltd,Utilities,130000
+ONGC,Oil and Natural Gas Corporation Ltd,Oil & Gas,120000
+COALINDIA,Coal India Ltd,Mining,110000
+GRASIM,Grasim Industries Ltd,Cement,105000
+SHREECEM,Shree Cement Ltd,Cement,100000
+JSWSTEEL,JSW Steel Ltd,Steel,95000
+TATASTEEL,Tata Steel Ltd,Steel,90000
+HINDALCO,Hindustan Zinc Ltd,Metals,85000
+DRREDDY,Dr. Reddy's Laboratories Ltd,Healthcare,80000
+SUNPHARMA,Sun Pharmaceutical Industries Ltd,Healthcare,75000
+CIPLA,Cipla Ltd,Healthcare,70000
+DIVISLAB,Divi's Laboratories Ltd,Healthcare,65000
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd,Healthcare,60000
+TECHM,Tech Mahindra Ltd,Technology,55000
+WIPRO,Wipro Ltd,Technology,50000
+HCLTECH,HCL Technologies Ltd,Technology,45000
+MINDTREE,MindTree Ltd,Technology,40000
+TATAMOTORS,Tata Motors Ltd,Automotive,35000
+BAJAJ-AUTO,Bajaj Auto Ltd,Automotive,30000
+HEROMOTOCO,Hero MotoCorp Ltd,Automotive,25000
+EICHERMOT,Eicher Motors Ltd,Automotive,20000
+M&M,Mahindra & Mahindra Ltd,Automotive,18000
+INDUSINDBK,IndusInd Bank Ltd,Banking,16000
+BANDHANBNK,Bandhan Bank Ltd,Banking,14000
+IDFCFIRSTB,IDFC First Bank Ltd,Banking,12000
+RBLBANK,RBL Bank Ltd,Banking,10000
+FEDERALBNK,Federal Bank Ltd,Banking,8000
+IDBI,IDBI Bank Ltd,Banking,6000
+PNB, Punjab National Bank,Banking,5000
+BANKBARODA,Bank of Baroda,Banking,4500
+CANBK,Canara Bank,Banking,4000
+UNIONBANK,Union Bank of India,Banking,3500

@@ -7,11 +7,18 @@ interface NewsCardProps {
 }
 
 const NewsCard = ({ article, featured = false }: NewsCardProps) => {
+  const handleClick = () => {
+    if (article.url) {
+      window.open(article.url, '_blank', 'noopener,noreferrer');
+    }
+  };
+
   return (
     <article
-      className={`group cursor-pointer rounded-xl border border-border bg-card p-5 transition-all duration-200 hover:border-border/80 hover:bg-surface-elevated ${
+      onClick={handleClick}
+      className={`group cursor-pointer rounded-xl border border-border bg-card p-5 transition-all duration-200 hover:border-border/80 hover:bg-surface-elevated hover:shadow-md ${
         featured ? "md:col-span-2" : ""
-      }`}
+      } ${article.url ? 'cursor-pointer' : 'cursor-default'}`}
     >
       <div className="flex flex-col gap-3">
         <div className="flex items-center justify-between gap-4">
@@ -45,6 +52,19 @@ const NewsCard = ({ article, featured = false }: NewsCardProps) => {
                 className="rounded-md bg-secondary px-2 py-1 text-xs font-medium text-secondary-foreground"
               >
                 ${ticker}
+              </span>
+            ))}
+          </div>
+        )}
+
+        {article.stockTags && article.stockTags.length > 0 && (
+          <div className="flex flex-wrap gap-2 pt-1">
+            {article.stockTags.map((stock) => (
+              <span
+                key={stock}
+                className="rounded-md bg-blue-100 px-2 py-1 text-xs font-medium text-blue-800 dark:bg-blue-900 dark:text-blue-200"
+              >
+                {stock}
               </span>
             ))}
           </div>

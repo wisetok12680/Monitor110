@@ -23,7 +23,7 @@ const Navigation = () => {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-foreground">
               <span className="text-sm font-bold text-background">FN</span>
             </div>
-            <span className="hidden sm:inline">FinanceFlow</span>
+            <span className="hidden sm:inline">Monitor110</span>
           </Link>
 
           <div className="flex items-center gap-1">
